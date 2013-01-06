@@ -11,3 +11,4 @@ sudo apt-get dist-upgrade -y
 sudo /bin/sh -c 'echo "#Move /tmp to RAM\ntmpfs /tmp tmpfs defaults,noexec,nosuid 0 0" >> /etc/fstab'
 sudo vim /etc/fstab
 kittens
+dogs
