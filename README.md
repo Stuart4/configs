@@ -1,1 +1,1 @@
-Hello World
+A collection of my personal configuration files that anyone may use.config.ssh is ~/.ssh/configcore.conf.deluge is ~/.config/deluge/core.conf
