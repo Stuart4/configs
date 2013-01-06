@@ -1,1 +1,1 @@
-A collection of my personal configuration files that anyone may use.config.ssh is ~/.ssh/configcore.conf.deluge is ~/.config/deluge/core.conf
+<p>A collection of my personal configuration files that anyone may use.</p><p>config.ssh is ~/.ssh/config</p><p>core.conf.deluge is ~/.config/deluge/core.conf</p>
